@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Irineu</h1>
 <h3 align="center">A tester from Brazil, trying to be a true developer</h3>
 
-- 🌱 I’m currently learning **JavaScript**
 - ✔ 2 years of experience with Python + Selenium.
 - 📫 How to reach me **pedrohenriqueirineu@gmail.com**
 - 🔶 English level: B1 Intermediate
