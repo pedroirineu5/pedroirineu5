@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning **JavaScript**
 - ✔ 2 years of experience with Python + Selenium.
 - 📫 How to reach me **pedrohenriqueirineu@gmail.com**
+- 🔶 English level: B1 Intermediate
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
