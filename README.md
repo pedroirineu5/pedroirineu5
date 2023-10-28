@@ -4,12 +4,7 @@
 - ✔ 2 years of experience with Python + Selenium.
 - 📫 How to reach me **pedrohenriqueirineu@gmail.com**
 - 🔶 English level: B1 Intermediate
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro irineu" height="30" width="40" /></a>
-</p>
+<hr>
 
 <h3 align="left">Languages and Tools that I'm learning and improving!</h3>
 
