@@ -5,7 +5,6 @@
 - 📫 How to reach me **pedrohenriqueirineu@gmail.com**
 - 🔶 English level: B1 Intermediate
 
-thanks for reading
 <hr>
 
 <h3 align="left">Languages and Tools that I'm learning and improving!</h3>
@@ -26,3 +25,7 @@ thanks for reading
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroirineu5&show_icons=true&locale=en" alt="pedroirineu5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroirineu5&" alt="pedroirineu5" /></p>
+
+<p align="center"> 
+thanks for reading
+</p>
