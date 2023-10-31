@@ -4,6 +4,7 @@
 - ✔ 2 years of experience with Python + Selenium.
 - 📫 How to reach me **pedrohenriqueirineu@gmail.com**
 - 🔶 English level: B1 Intermediate
+
 thanks for reading
 <hr>
 
