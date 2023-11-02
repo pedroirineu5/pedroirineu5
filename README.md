@@ -5,8 +5,7 @@
 - 📫 How to reach me **pedrohenriqueirineu@gmail.com**
 - 🔶 English level: B1 Intermediate
 
-<hr>
-
+<hr>
 <h3 align="left">Languages and Tools that I'm learning and improving!</h3>
 
 <div>
