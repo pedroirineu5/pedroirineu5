@@ -22,7 +22,7 @@
 </div>
 
 <hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroirineu5&show_icons=true&locale=en" alt="pedroirineu5" /></p>
+<p>&nbsp;<img align-contente="center" src="https://github-readme-stats.vercel.app/api?username=pedroirineu5&show_icons=true&locale=en" alt="pedroirineu5" /></p>
 
 <p align="center"> 
 thanks for reading
