@@ -2,7 +2,6 @@
 <h3 align="center">A CS student from Brazil, trying to be a true developer</h3>
 
 - 📫 How to reach me **pedrohenriqueirineu@gmail.com**
-- 🔶 English level: B1 Intermediate
 
 <hr>
 
