@@ -4,6 +4,7 @@
 
 <table align="center">
   <tr>
+    Hi there
     <td colspan="2" align="center">
       <h3>🚀 A CS student from Brazil, trying to be a true developer</h3>
       <p>📫 How to reach me: <b>pedrohenriqueirineu@gmail.com</b></p>
