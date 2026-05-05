@@ -39,7 +39,7 @@
       <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
       <img src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white">
       <br><br>
-      <h4>Ferramentas de trabalho</h4>
+      <h4>Workspace tools</h4>
       <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white">
       <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
@@ -49,7 +49,7 @@
 </table>
 
 ---
-<p align="center">Feito por Pedro Henrique</p>
+<p align="center">made with <3 by Pedro Henrique</p>
 
 
 
