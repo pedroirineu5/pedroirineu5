@@ -10,6 +10,7 @@
       <p>📫 How to reach me: <b>pedrohenriqueirineu@gmail.com</b></p>
     </td>
   </tr>
+
   
   <tr>
     <td width="50%" valign="top" align="center">
